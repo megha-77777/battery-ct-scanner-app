@@ -1,4 +1,6 @@
-libgl1-mesa-glx
-python3-distutils
-python3-setuptools
-python3-pip
+python3-dev
+build-essential
+libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
